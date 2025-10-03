@@ -21,7 +21,7 @@
     <hr>
   </div>
 
-    <div style="text-align: center;">
+   <div style="text-align: center;">
     <h2 style="color:dodgerblue;"><span class="prenom">2. Nicolas DESERT</span></h2>
     <img src="image_sig/PhotodeNicolas.jpg" alt="Nicolas Desert">
     <p style="background-color:LightGray;">
@@ -39,7 +39,7 @@ j'aime bien aider les personnes qui me demandent
     <hr>
   </div>
 
-    <div style="text-align: center;">
+  <div style="text-align: center;">
     <h2 style="color:dodgerblue;"><span class="prenom">4. Noa Trunet</span></h2>
     <img style="text-align: center;" src="image_sig/Noa.jpg" alt="Noa Trunet">
     <p style="background-color:LightGray;">Je m’appelle Noa Trunet, j’ai 18 ans et je suis passionnée par l’informatique ainsi que par les jeux vidéo. <br>J’ai un mode de vie assez casanier, je sors rarement de chez moi sauf pour retrouver quelques amis proches.</p>
