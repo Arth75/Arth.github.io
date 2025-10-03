@@ -52,9 +52,6 @@ j'aime bien aider les personnes qui me demandent
     </div>
     
 
-</body>
-</html>
-
 
 
 
