@@ -1,5 +1,5 @@
 
-</head>
+
 <body style="background-color: lightgray;">
 
   <header>
@@ -9,7 +9,7 @@
   </header>
 <h1>Voici notre tavail de Groupe avec 5 camarades qu'ils vont être présentés si dessous.</h1>
 </body>
-</html>
+
 
    <div style="text-align: center;">
     <h2 style="color:dodgerblue;"><span class="prenom">1. Arthur Lee Guianvarch</span></h2>
@@ -31,7 +31,7 @@ j'aime bien aider les personnes qui me demandent
     </p>
     <hr>
   </div>
-    <div style="text-align: center;">
+  <div style="text-align: center;">
     <h2 style="color:dodgerblue;"><span class="prenom">3. Dany Yalbir</span></h2>
     <img src="image_sig/Dany.jpg" alt="Dany Yalbir">
     <p style="background-color:LightGray;"> Dany Yalbir, j'ai 20 ans, et moi ce que j'aime ce sont les histoires, les jeux vidéo, et le piano que j'ai un peu pratiqué pendant quelque temps. <br>Je suis une personne qui aime s'amuser ainsi que les choses pas trop compliquées, mais j'aime aussi beaucoup apprendre et toucher à de nouvelles choses.
@@ -45,7 +45,7 @@ j'aime bien aider les personnes qui me demandent
     <p style="background-color:LightGray;">Je m’appelle Noa Trunet, j’ai 18 ans et je suis passionnée par l’informatique ainsi que par les jeux vidéo. <br>J’ai un mode de vie assez casanier, je sors rarement de chez moi sauf pour retrouver quelques amis proches.</p>
   <hr>
   </div>
-    <div style="text-align: center;">
+ <div style="text-align: center;">
   <h2 style="color:dodgerblue;"><span class="prenom">5. Sacha Dumont</span></h2>
   <img style="text-align: center;" src="image_sig/Sacha.jpg" alt="Sacha Dumont">
   <p style="background-color:LightGray;"> Je m'appelle Sacha Dumont ,j’ai 17 ans et je suis étudiant en première année de BTS SIO . <br>J’aime beaucoup les jeux vidéos quelque soit le type, je suis aussi fan de musique, de comics et de films surtout les films Marvel</p>
