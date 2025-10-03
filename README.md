@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>BTS SIO : Travail de groupe</title>
-  <style>
-    .encadre {
-      border: 3px solid black;
-      padding: 15px;
-      width: 100%;
-      margin: 0 auto; 
-      text-align: center; 
-      background-color: light gray;
-    }
-  </style>
+
 </head>
 <body style="background-color: lightgray;">
 
