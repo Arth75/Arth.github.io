@@ -4,7 +4,7 @@
 
   <header>
     <div class="encadre">
-      <h1><u>BTS SIO : Travail de groupe</u></h1>
+      <h1><u>Restaurant Guadeloupéen</u></h1>
     </div>
   </header>
 <h1>Voici notre tavail de Groupe avec 5 camarades qu'ils vont être présentés si dessous.</h1>
